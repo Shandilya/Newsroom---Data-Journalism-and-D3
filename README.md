@@ -2,7 +2,7 @@
 Data Journalism and D3 Assignment
 
 
-# Unit 16 | Assignment - Data Journalism and D3
+# Assignment - Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -25,7 +25,7 @@ Census Bureau and the Behavioral Risk Factor Surveillance System.
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
 Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. 
-You'll code this graphic in the `app.js` file of your homework directory—make sure you pull in the data from `data.csv` 
+You'll code this graphic in the `app.js` file of your homework directoryâ€”make sure you pull in the data from `data.csv` 
 by using the `d3.csv` function. Your scatter plot should ultimately appear like the image at the top of this section.
 
 * Include state abbreviations in the circles.
@@ -57,7 +57,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to 
 reveal a specific element's data when the user hovers their cursor over the element. 
 Add tooltips to your circles and display each tooltip with the data that the user has selected. 
-Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin 
+Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)â€”we've already included this plugin 
 in your assignment directory.
 
 ![8-tooltip](Images/8-tooltip.gif)
@@ -83,4 +83,4 @@ Your final product will be assessed on the following metrics:
 
 ## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
+Data Boot Camp Â© 2018. All Rights Reserved.
